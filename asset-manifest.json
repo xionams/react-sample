@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xionams/react-sample/static/css/main.6b7482d2.chunk.css",
+    "main.js": "/xionams/react-sample/static/js/main.c35ef6e4.chunk.js",
+    "main.js.map": "/xionams/react-sample/static/js/main.c35ef6e4.chunk.js.map",
+    "runtime-main.js": "/xionams/react-sample/static/js/runtime-main.37177d70.js",
+    "runtime-main.js.map": "/xionams/react-sample/static/js/runtime-main.37177d70.js.map",
+    "static/js/2.3b55fc97.chunk.js": "/xionams/react-sample/static/js/2.3b55fc97.chunk.js",
+    "static/js/2.3b55fc97.chunk.js.map": "/xionams/react-sample/static/js/2.3b55fc97.chunk.js.map",
+    "static/js/3.c807318f.chunk.js": "/xionams/react-sample/static/js/3.c807318f.chunk.js",
+    "static/js/3.c807318f.chunk.js.map": "/xionams/react-sample/static/js/3.c807318f.chunk.js.map",
+    "index.html": "/xionams/react-sample/index.html",
+    "static/css/main.6b7482d2.chunk.css.map": "/xionams/react-sample/static/css/main.6b7482d2.chunk.css.map",
+    "static/js/2.3b55fc97.chunk.js.LICENSE.txt": "/xionams/react-sample/static/js/2.3b55fc97.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/xionams/react-sample/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37177d70.js",
+    "static/js/2.3b55fc97.chunk.js",
+    "static/css/main.6b7482d2.chunk.css",
+    "static/js/main.c35ef6e4.chunk.js"
+  ]
+}
